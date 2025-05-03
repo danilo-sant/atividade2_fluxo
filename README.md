@@ -1,8 +1,8 @@
-🚀 Sistema de Transporte Tipo Pórtico com Garra
+#🚀 Sistema de Transporte Tipo Pórtico com Garra
 
 Este projeto simula um sistema automatizado de transporte utilizando um modelo de pórtico com garra, desenvolvido com ESP32 e display OLED. Ele tem como objetivo representar o deslocamento da garra entre três postos distintos, acionado por botões físicos e com feedback visual e sonoro ao usuário.
 
-🎯 Funcionalidades
+##🎯 Funcionalidades
 Seleção de destino através de botões com tratamento de debounce.
 
 Simulação de movimento com buzzer e tempo proporcional à distância entre postos.
@@ -55,4 +55,5 @@ Este projeto tem fins didáticos e pode ser utilizado como base para estudos sob
 
 👨‍💻 Autor
 Desenvolvido por Danilo Santos
+
 Projeto acadêmico com foco em sistemas embarcados e automação.
